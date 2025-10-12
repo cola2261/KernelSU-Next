@@ -1,2 +1,7 @@
 .idea
 .vscode
+
+# Ignore Patches
+*.rej
+*.orig
+10_enable_susfs_for_ksu.patch
